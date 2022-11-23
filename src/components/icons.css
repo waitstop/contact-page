@@ -1,0 +1,8 @@
+.ascii-icon{
+    color: white;
+    white-space: pre;
+    display: inline-block;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3px;
+    line-height: 1.5;
+}
